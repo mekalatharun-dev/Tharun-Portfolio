@@ -25,7 +25,7 @@ AI-powered crop disease detection and recommendation system designed to assist f
 
 ### 💼 Job Board Platform
 
-A full-stack job board platform built with Django and REST APIs, supporting authentication, job listings, and application management.
+A full-stack job board platform built with Django and REST APIs.
 
 ### 🍽️ Restaurant Management API
 
@@ -52,8 +52,8 @@ B.Tech — Computer Science and Engineering
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [Tharun M](https://www.linkedin.com/in/tharun-mekala/)
-* **GitHub:** [mekalatharun-dev](https://github.com/mekalatharun-dev)
+* **LinkedIn:** https://www.linkedin.com/in/tharun-m-416271290
+* **GitHub:** https://github.com/mekalatharun-dev
 
 ---
 
